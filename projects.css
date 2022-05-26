@@ -1,0 +1,57 @@
+*{
+    margin:0%;
+    
+}
+html,body{
+    height:100%
+    
+}
+body{
+    background-color: #1e1e1e;
+    color: antiquewhite;
+}
+.contact,nav a{
+    color: bisque;
+    background-color: rgb(86, 86, 86);
+}
+.head,a{
+    background-color: rgb(30, 28, 28);
+    color: aliceblue;
+    font-size: 23px;
+    font-family: 'Source Code Pro',cursive;
+    
+}
+a{
+    text-decoration: none;
+}
+.about{
+    display: inline-block;
+    position: static;
+    text-align: left;
+}
+
+.info,span a{
+    display: inline-block;
+    width: max-content;
+    text-align: right;
+}
+table{
+    width: 100%;
+    padding-left: 1%;
+    padding-right: 1%;
+    border: 0px;
+}
+.home{
+    width: 100%;
+}
+main{
+    font-family: 'Source Code Pro',cursive;
+    
+}
+.main-info{
+    padding-left: 3%;
+    padding-top: 2%;
+}
+.about-home{
+    font-size: 34.5px;
+}
